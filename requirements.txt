@@ -3,3 +3,5 @@ uvicorn[standard]
 opencv-python-headless
 ultralytics
 jinja2
+numpy>=1.22.0
+python-multipart
