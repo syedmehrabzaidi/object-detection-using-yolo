@@ -20,7 +20,22 @@ A production-ready real-time object detection system built with YOLOv8 and FastA
 
 ---
 
-## 🛠️ Tech Stack
+## � Screenshots & Examples
+
+### Live Object Detection in Action
+![Object Detection Example](images/detection_example.jpg)
+
+### Web Interface
+![Web Interface](images/web_interface.png)
+
+> **Note:** Add your object detection screenshots to the `images/` folder:
+> - `detection_example.jpg` - Live camera feed with detected objects
+> - `web_interface.png` - Screenshot of the web interface
+> - `multiple_objects.jpg` - Example with multiple detected objects
+
+---
+
+## �🛠️ Tech Stack
 
 - **Backend Framework:** FastAPI
 - **ML Model:** YOLOv8 (Ultralytics)
